@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1007.17 1011.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ece810;
+      }
+
+      .cls-2 {
+        fill: #1a8e72;
+      }
+
+      .cls-3 {
+        fill: #c9c9c9;
+      }
+
+      .cls-4 {
+        fill: #25aae1;
+      }
+
+      .cls-5 {
+        fill: #f7941e;
+      }
+
+      .cls-6 {
+        font-size: 65.6px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-7 {
+        font-size: 60.87px;
+      }
+
+      .cls-8 {
+        font-size: 64.61px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Pie_Charts" data-name="Pie Charts">
+      <g>
+        <g id="graph_2" data-name="graph 2">
+          <path class="cls-1" d="M511.71,1011.07a515,515,0,0,0,203.74-48.26c96.26-45.09,153.34-108.44,174.64-134a497.28,497.28,0,0,0,61.8-94.34L506.25,507.84Z"/>
+          <path class="cls-2" d="M951.89,734.43a475.79,475.79,0,0,0,24.76-57.32c19.36-54.42,23.92-98.86,26.8-128.68,3.35-34.61,6.35-68,0-111.83a382,382,0,0,0-19.52-77.06L506.25,507.41Z"/>
+          <path class="cls-3" d="M659.54,26.81A699.59,699.59,0,0,0,504.05,2.3l1.53,505.54Z"/>
+          <path class="cls-4" d="M213.75,95A507.42,507.42,0,0,0,47.54,293.37C-14.71,426.29-.69,547.89,6.94,593.62A511.77,511.77,0,0,0,90.43,793.54C103,811.45,169.35,903.86,290.35,962.05,349.74,990.61,401,1000.68,416,1003.41a480.81,480.81,0,0,0,95.75,7.66q-4.21-251.64-6.13-503.23Q503.66,255.11,504.05,2.3C457.56,2.67,334.46,9.87,213.75,95Z"/>
+          <path class="cls-5" d="M505.58,507.84l479-149a514.28,514.28,0,0,0-46.22-105.31C885.24,162,817.65,111,792.82,93.45A498.28,498.28,0,0,0,659,26.8Z"/>
+        </g>
+        <g id="graph_2_text" data-name="graph 2 text">
+          <text class="cls-6" transform="matrix(1, -0.04, 0.04, 1, 581.78, 742.03)">16.8%</text>
+          <text class="cls-6" transform="translate(759.04 566.78) rotate(-2.86)">12.3%</text>
+          <text class="cls-6" transform="translate(507.15 51.3) rotate(20.9)">5.1%</text>
+          <text class="cls-7" transform="translate(188.01 520.69)">50.5%</text>
+          <text class="cls-8" transform="matrix(0.98, 0.22, -0.22, 0.98, 665.01, 285.17)">15.3%</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010.07 1006.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a8e72;
+      }
+
+      .cls-2 {
+        fill: #25aae1;
+      }
+
+      .cls-3 {
+        fill: #f7941e;
+      }
+
+      .cls-4 {
+        fill: #c9c9c9;
+      }
+
+      .cls-5 {
+        fill: #ece810;
+      }
+
+      .cls-6 {
+        font-size: 65.6px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-7 {
+        font-size: 58px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Pie_Charts" data-name="Pie Charts">
+      <g>
+        <g id="graph_3" data-name="graph 3">
+          <path class="cls-1" d="M506.92,0A512.41,512.41,0,0,0,350.21,23.08,499.36,499.36,0,0,0,8.72,406.83a503.11,503.11,0,0,0-1.4,178.73,534.62,534.62,0,0,0,19.2,75.58,567.65,567.65,0,0,0,40.53,93.35l438.29-250.8Q506.12,251.86,506.92,0Z"/>
+          <path class="cls-2" d="M829.5,890.55A587.27,587.27,0,0,0,944.56,757.37l-440-252.9Z"/>
+          <path class="cls-3" d="M502.81,502.53,504.73,1007A508.09,508.09,0,0,0,829.5,890.55Z"/>
+          <path class="cls-4" d="M67.05,754.49A503.83,503.83,0,0,0,504.73,1007q.36-251.22.7-502.45Z"/>
+          <path class="cls-5" d="M944.56,757.37c20-35.59,89.57-169.24,56.93-343.58C993.64,371.89,961.75,230.72,831,120,695.86,5.51,545.42.16,504.92,0l.51,504.51Z"/>
+        </g>
+        <g id="graph_3_text" data-name="graph 3 text">
+          <text class="cls-6" transform="translate(532.54 842.15) rotate(0.92)">11.1%</text>
+          <text class="cls-6" transform="translate(710.79 743.41) rotate(0.92)">5.6%</text>
+          <text class="cls-6" transform="translate(177.58 378.33) rotate(0.92)">33.3%</text>
+          <text class="cls-7" transform="translate(248.23 816.24) rotate(0.92)">16.7%</text>
+          <text class="cls-6" transform="translate(616.66 325.38) rotate(0.92)">33.3%</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

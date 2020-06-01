@@ -1,0 +1,40 @@
+svg{
+    width: 400px;
+    
+    background: black;
+}
+
+#Pie_Charts{
+    width: 300px;
+}
+
+.cls-1 {
+        fill: #25aae1;
+      }
+
+      .cls-2 {
+        fill: #c9c9c9;
+      }
+
+      .cls-3 {
+        fill: #1a8e72;
+      }
+
+      .cls-4 {
+        fill: #ece810;
+      }
+
+      .cls-5 {
+        font-size: 65.6px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-6 {
+        fill: #f7941e;
+        }
+
+.cls-1:hover,.cls-2:hover,.cls-3:hover,.cls-4:hover,.cls-6:hover {
+  -ms-transform: scale(1.03); /* IE 9 */
+  -webkit-transform: scale(1.03); /* Safari 3-8 */
+  transform: scale(1.03); 
+}

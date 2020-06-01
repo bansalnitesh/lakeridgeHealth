@@ -1,0 +1,150 @@
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+.bar_one {
+  stroke-dasharray: 0;
+
+  animation: dash 2s linear forwards;  
+} 
+
+@keyframes dash {
+  from {
+    stroke-dasharray: 0 100; 
+  }
+  to {
+    stroke-dasharray: 100 0;
+	  }
+}
+.bar_two {
+  stroke-dasharray: 0;
+  animation: dash 1s linear forwards;  
+  animation-delay: 1s;  
+}
+@keyframes dash {
+  from {
+    stroke-dasharray: 0 500; 
+  }
+  to {
+	   stroke-opacity: 1;
+    stroke-dasharray: 500 0;
+  }
+}
+.bar_three {
+  stroke-dasharray: 0;
+  animation: dash 2s linear forwards;  
+ stroke-opacity: 0;  
+  animation-delay: 2s;  
+}
+@keyframes dash {
+  from {
+    stroke-dasharray: 0 500; 
+  }
+  to {
+	   stroke-opacity: 1;
+    stroke-dasharray: 500 0;
+  }
+}
+.bar_four {
+  stroke-dasharray: 0;
+  animation: dash 2s linear forwards;  
+ stroke-opacity: 0;  
+  animation-delay: 3s;  
+}
+@keyframes dash {
+  from {
+    stroke-dasharray: 0 500; 
+  }
+  to {
+	   stroke-opacity: 1;
+    stroke-dasharray: 500 0;
+  }
+}
+.bar_five {
+  stroke-dasharray: 0;
+  animation: dash 2s linear forwards;  
+  animation-delay: 4s;  
+}
+@keyframes dash {
+  from {
+	   stroke-opacity: 1;
+    stroke-dasharray: 0 500; 
+  }
+  to {
+	   stroke-opacity: 1;
+    stroke-dasharray: 500 0;
+  }
+}
+.textone {
+ 
+  animation: texts 2s linear forwards;  
+
+}
+@keyframes texts {
+	from{
+		fill-opacity: 0;
+	}
+  to {
+	   fill-opacity: 1;   
+  }
+}
+.texttwo { 
+  animation: texts 2s linear forwards; 
+  animation-delay: 1s; 
+
+}
+@keyframes texts {
+	from{
+		fill-opacity: 0;
+	}
+  to {
+	   fill-opacity: 1;   
+  }
+}
+.textthree {
+ 
+  animation: texts 1s linear forwards;  
+  animation-delay: 2s; 
+
+}
+@keyframes texts {
+  from {
+	  fill-opacity: 0;
+  
+  }
+  to {
+	   fill-opacity: 1;   
+  }
+}
+.textfour {
+ 
+  animation: texts 1.5s linear forwards;  
+  animation-delay: 3s; 
+
+}
+@keyframes texts {
+  from {
+	  fill-opacity: 0;
+  
+  }
+  to {
+	   fill-opacity: 1;   
+  }
+}
+.textfive {
+ 
+  animation: texts 1s linear forwards;  
+  animation-delay: 4s; 
+
+}
+@keyframes texts {
+  from {
+	  fill-opacity: 0;
+  
+  }
+  to {
+	   fill-opacity: 1;   
+  }
+}

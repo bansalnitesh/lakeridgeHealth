@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1005.79 1010.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ece810;
+      }
+
+      .cls-2 {
+        fill: #1a8e72;
+      }
+
+      .cls-3 {
+        fill: #c9c9c9;
+      }
+
+      .cls-4 {
+        fill: #25aae1;
+      }
+
+      .cls-5 {
+        fill: #f7941e;
+      }
+
+      .cls-6 {
+        font-size: 65.6px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-7 {
+        font-size: 60.87px;
+      }
+
+      .cls-8 {
+        font-size: 64.61px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Pie_Charts" data-name="Pie Charts">
+      <g>
+        <g id="graph_2" data-name="graph 2">
+          <path class="cls-1" d="M455.38,1008.9A513,513,0,0,0,864.94,856,508.5,508.5,0,0,0,947.4,743.58L505.52,507.87Q480.46,758.39,455.38,1008.9Z"/>
+          <path class="cls-2" d="M947.4,743.58a519.12,519.12,0,0,0,47.79-134.42c20.14-97.77,7.45-180.12-4.17-228.66L505.47,508Z"/>
+          <path class="cls-3" d="M659.54,26.81A699.59,699.59,0,0,0,504.05,2.3l1.53,505.54Z"/>
+          <path class="cls-4" d="M213.75,95A507.42,507.42,0,0,0,47.54,293.37C-14.71,426.29-.69,547.89,6.94,593.62A511.77,511.77,0,0,0,90.43,793.54s76.92,109.91,199.92,168.51c41.17,19.61,84.15,31.43,86.48,32.06a510.37,510.37,0,0,0,78.55,14.79c31.68-231.85,50.2-501.06,50.2-501.06S503.74,154.48,504.05,2.3C457.56,2.67,334.46,9.87,213.75,95Z"/>
+          <path class="cls-5" d="M505.58,507.84,989.22,380.67A496.74,496.74,0,0,0,659,26.8Z"/>
+        </g>
+        <g id="graph_2_text" data-name="graph 2 text">
+          <text class="cls-6" transform="matrix(1, -0.04, 0.04, 1, 581.78, 742.03)">18.2%</text>
+          <text class="cls-6" transform="translate(759.04 589.85) rotate(-2.86)">12.2%</text>
+          <text class="cls-6" transform="translate(507.15 51.3) rotate(20.9)">5.2%</text>
+          <text class="cls-7" transform="translate(188.01 520.69)">48.6%</text>
+          <text class="cls-8" transform="matrix(0.98, 0.22, -0.22, 0.98, 665.01, 285.17)">15.8%</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

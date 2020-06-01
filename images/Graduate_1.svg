@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1009.89 1005.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a8e72;
+      }
+
+      .cls-2 {
+        fill: #25aae1;
+      }
+
+      .cls-3 {
+        fill: #f7941e;
+      }
+
+      .cls-4 {
+        fill: #c9c9c9;
+      }
+
+      .cls-5 {
+        fill: #ece810;
+      }
+
+      .cls-6 {
+        font-size: 65.6px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-7 {
+        font-size: 58px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Pie_Charts" data-name="Pie Charts">
+      <g>
+        <g>
+          <path class="cls-1" d="M507.05,0c-53-.17-89.66,2.24-156.71,23.06-33.77,10.48-57.72,21.09-82,34L505.46,503.67Z"/>
+          <path class="cls-2" d="M5.76,575.08C11.67,614.16,40.43,774.25,185.58,893c168.55,137.9,362.74,112.61,395.24,107.82,34.94-5.14,233.63-38.13,352.95-225.47,124.72-195.81,60.74-400.12,51.79-427.08L504.71,504.45Z"/>
+          <path class="cls-3" d="M505.69,504.68,160.33,133.28c-49,51-150.61,172.51-159.68,343.87a470.46,470.46,0,0,0,5.11,97.93Z"/>
+          <path class="cls-4" d="M268.3,57.08C258.08,62.42,247.55,68.37,236.82,75a499.91,499.91,0,0,0-76.49,58.27Q332.29,318.62,504.24,504,386.27,280.51,268.3,57.08Z"/>
+          <path class="cls-5" d="M985.56,348.26a500.36,500.36,0,0,0-38.81-87.83C889.46,158.56,810.47,102.28,775.69,80.18,663.68,9,554,.7,505.05,0l.51,504.51Z"/>
+        </g>
+        <g id="graph_3_text" data-name="graph 3 text">
+          <text class="cls-6" transform="translate(87.09 474.47) rotate(0.92)">15.2%</text>
+          <text class="cls-6" transform="translate(710.9 743.39) rotate(0.92)">52.9%</text>
+          <text class="cls-6" transform="translate(332.41 142.4) rotate(0.92)">7.8%</text>
+          <text class="cls-7" transform="translate(183.65 156.07) rotate(0.92)">5.1%</text>
+          <text class="cls-6" transform="translate(616.77 325.36) rotate(0.92)">20.1%</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
